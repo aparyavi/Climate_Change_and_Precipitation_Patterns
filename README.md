@@ -1,4 +1,4 @@
-# Climate_Change_and_Precipitation_Patterns_CMSC320
+# Climate_Change_and_Precipitation_Patterns
 
 Global Warming is becoming an increasingly important issue due to the effects it's having on humans and the environment all over the world. That is why it has been the center of attention in large humanitarian and goverment institutions.
 

@@ -89,19 +89,19 @@ In this tutorial, we have used a series of plots and regression lines. Barplot a
 References:
 
 Precipitation Data from the United States Environmental Protection Agency - https://www.epa.gov/climate-indicators/climate-change-indicators-us-and-global-precipitation
-
+<br />
 Annual Global Temperature Averages - https://datahub.io/core/global-temp#data
-
+<br />
 National Centers for Environmental Information, National Oceanic and Atmospheric Administration (NOAA) - https://www.ncdc.noaa.gov/cag/global/time-series/
-
+<br />
 Scatter Plots - https://matplotlib.org/3.5.0/api/_as_gen/matplotlib.pyplot.scatter.html
-
+<br />
 Linear Regression - https://realpython.com/linear-regression-in-python/
-
+<br />
 Which parts of the planet are warming the fastest, and why? - https://climate.mit.edu/ask-mit/which-parts-planet-are-warming-fastest-and-why#:~:text=The%20earth's%20largest%20land%20masses,reflect%20energy%20from%20the%20sun.&text=For%20more%20than%20a%20century,labs%2C%20ships%2C%20and%20satellites.
-
+<br />
 Barplot - https://matplotlib.org/3.5.0/api/_as_gen/matplotlib.pyplot.bar.html
-
+<br />
 Dataframes and Arrays - https://www.geeksforgeeks.org/create-a-dataframe-from-a-numpy-array-and-specify-the-index-column-and-column-headers/
-
+<br />
 Subplots - https://www.tutorialspoint.com/how-to-make-two-plots-side-by-side-using-python
